@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Februar. 1. 1645. Articles for the surrender of the city of Chester with the castle and fort: agreed on between the commissioners appointed on the behalf of John Lord Byron Field-Marshall-Generall of North-Wales, and Governour of Chester, on the one part, and the commissioners on the behalf of Sir William Brereton Baronet, Commander in Chiefe of all the forces in Cheshire, and at the leaguer before Chester, on the other part. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75647</idno>
+            <idno type="STC">Wing A3827</idno>
+            <idno type="STC">Thomason E320_1</idno>
+            <idno type="STC">ESTC R200564</idno>
+            <idno type="EEBO-CITATION">99861280</idno>
+            <idno type="PROQUEST">99861280</idno>
+            <idno type="VID">159015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159015)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E320[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Februar. 1. 1645. Articles for the surrender of the city of Chester with the castle and fort: agreed on between the commissioners appointed on the behalf of John Lord Byron Field-Marshall-Generall of North-Wales, and Governour of Chester, on the one part, and the commissioners on the behalf of Sir William Brereton Baronet, Commander in Chiefe of all the forces in Cheshire, and at the leaguer before Chester, on the other part. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Rich. Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645 [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chester (England) --  History --  Siege, 1646 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159015:1" rendition="simple:additions"/>
+            <pb facs="tcp:159015:1"/>
+            <p>Februar. 1. 1645.</p>
+            <p>ARTICLES FOR The Surrender of the City OF CHESTER With the Caſtle and Fort:</p>
+            <p>AGREED ON Between the Commiſſioners appoin<g ref="char:EOLhyphen"/>ted on the behalf of <hi>JOHN</hi> Lord <hi>BYRON</hi> Field-Marſhall-Generall of <hi>North-Wales,</hi> and Governour of <hi>CHESTER,</hi> on the one PART,</p>
+            <p>AND The Commiſſioners on the behalf of Sir <hi>WILLIAM BRERETON</hi> Baronet, Commander in Chiefe of all the Forces in <hi>Cheſhire,</hi> and at the Leaguer before <hi>Cheſter,</hi> on the other PART.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>London</hi> Printed by <hi>Rich. Cotes,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_surrender">
+            <pb facs="tcp:159015:2"/>
+            <pb n="1" facs="tcp:159015:2"/>
+            <head>
+               <hi>ARTICLES</hi> Concluded and Agreed on the firſt of <hi>February,</hi> 1645.</head>
+            <head type="sub">FOR THE Surrender of the City of <hi>CHESTER,</hi> with the Caſtle and Fort.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Lord <hi>Byron,</hi> and all Noble<g ref="char:EOLhyphen"/>men, Commanders, Officers, Gen<g ref="char:EOLhyphen"/>tlemen, Souldiers, and all other perſons whatſoever, now reſiding within the City of <hi>Cheſter,</hi> the Caſtle and Fort thereof, with all their ap<g ref="char:EOLhyphen"/>parell; hereafter mentioned: <hi>Viz.</hi>
+            </p>
+            <p n="1">I. The Lord <hi>Byron</hi> with his Horſe, and alſo his Lady, and Servants, his two Coaches, with foure Horſes in either of them, for the accommodating of them, and to ſuch other Ladies and Gentlemen as the ſaid Lord <hi>Byron</hi> ſhall think meet, with foureſcore of the ſaid Lords Books and all his Deeds, Evidences, Manuſcripts, and Wri<g ref="char:EOLhyphen"/>tings in his poſſeſſion, the ſaid Lord, his Lady, nor any
+<pb n="2" facs="tcp:159015:3"/> of their Attendants, carrying amongſt them all above forty pound in money, and twenty pound in Plate, the reſt of the Noblemen, with the Ladies, and Servants, to March with their Horſes, each of the ſaid Ladies atten<g ref="char:EOLhyphen"/>ded with foure men, their Horſes and Armes, and every ſuch Nobleman carrying with him not above thirty pound in money, every Knight and Collonell to March with two men, their Horſes and Armes, no ſuch Knight or Collonel to carry above ten pound in money, every Lievetenant Collonel, Major, and Captaines of Horſe, with one man, their Horſes and Armes, no ſuch Lievete<g ref="char:EOLhyphen"/>nant Collonel, Major, or Captain, carrying with him a<g ref="char:EOLhyphen"/>bove five pound in money; every Captain of Foot, Eſquire, Graduate, Preaching M<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſter, Gentlemen of quality, the Advocate and Secretary of the Army, every of them with his own Horſe and Sword (the Miniſters without ſwords) none of them carrying with him above fifty ſhillings, and the Miniſters to have all their own Manuſcripts, Notes, and Evidences: Lievetenants, Cor<g ref="char:EOLhyphen"/>nets, Enſignes, and other inferiour Officers in Commiſſi<g ref="char:EOLhyphen"/>on, on foot, with every man his Sword, &amp; not above 20 <hi>s.</hi> in money, all Troopers, Foot Souldiers, Gun-powder-ma<g ref="char:EOLhyphen"/>kers, Canoneers, and all others not before mentioned, to March without Horſe or Armes, and that none of the perſons before mentioned ſhall in their march, after they are out of the City, and Liberties thereof, be plundered, learched, or moleſted.</p>
+            <p n="2">II. That all Women of what degree ſoever, that pleaſe to march out of the City, ſhall have all their apparell with them, and ſuch Officers wives whoſe Huſbands are Priſoners or abſent, may carry ſuch ſums of money with them as are allowed by theſe Articles to Commanders,
+<pb n="3" facs="tcp:159015:3"/> Officers and Gentlemen, of their Huſbands quality, and no more.</p>
+            <p n="3">III. That none of the Commanders, Officers or Soul<g ref="char:EOLhyphen"/>diers, or any other, at or before their marching away out of the City, Caſtle, or Fort, doe injure or plunder the perſon, or goods of any, nor carry any thing away out of the ſaid City, Caſtle, and Fort, but what is their own, and hereby allowed.</p>
+            <p n="4">IV. That all Citizens now reſiding within the City, ſhall be ſaved and ſecured in their Perſons, and their Goods and Eſtates within the City and Liberties thereof preſerved and kept from the plunder and violence of Soul<g ref="char:EOLhyphen"/>diers; and have the like freedome of Trade, as other Townes and Cities <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the Parliaments protection have, and ſuch immunities, as they of right ought to have; and that every ſuch Merchant and Tradeſman of <hi>Cheſter,</hi> as ſhall deſire to goe into <hi>North-Wales,</hi> to looke after his Goods, ſhall have a Paſſe to goe thither, and to returne back again, he firſt giving ſecurity, that during his abſence, he will doe no act to the prejudice of the Parliament; and that no ſuch Perſon, ſhall at any time without licence, carry more with him, then ſufficient to defray the charges of his journey: and that all Citizens and other Inhabi<g ref="char:EOLhyphen"/>tants, who ſhall now, or hereafter deſire to march forth of the City of <hi>Cheſter,</hi> and not act any thing againſt the Parliament, his or their wives or families to have the be<g ref="char:EOLhyphen"/>nefit or priviledge of Inhabitants.</p>
+            <p n="5">V. That ſuch Officers and Souldiers as ſhall bee left ſick or wounded in the City of <hi>Cheſter,</hi> or the Caſtle, or Fort thereof, ſhall have liberty to ſtay untill their recove<g ref="char:EOLhyphen"/>ry, and then have paſſes to <hi>Conway,</hi> or any of the Kings Gariſons unblocked up.</p>
+            <p n="6">
+               <pb n="4" facs="tcp:159015:4"/>VI. That the ſaid Lord <hi>Byron,</hi> Noble-men, Com<g ref="char:EOLhyphen"/>manders, Gentlemen, Officers and Souldiers, and all o<g ref="char:EOLhyphen"/>thers that ſhall march out of the City ſhall have liberty to <hi>Conway,</hi> and five dayes are allowed them to march thither, with a Convoy of two hundred Horſe: the Welſh Officers and Souldiers to have liberty to march to their own Homes, all of them to have Free-quarter in their march, and twelve Carriages, if they ſhall have occaſi<g ref="char:EOLhyphen"/>on to uſe ſo many; which Carriages are to return the ſixth day, and that Paſſes be given them for a ſafe re<g ref="char:EOLhyphen"/>turn to <hi>Cheſter,</hi> and that they be ſecured untill they return thither.</p>
+            <p n="7">VII. That no Souldier in his march ſhall be inveigled or inticed from his Colours or Command, with any promiſe or inducement whatſoever.</p>
+            <p n="8">VIII. That all ſuch Perſons, Citizens or others who have Families in <hi>Cheſter,</hi> and are now in places remote thence, ſhall have the like benefit of theſe Articles, as thoſe who are now reſident in the City.</p>
+            <p n="9">IX. That the Friends of the Earles of <hi>Derby</hi> and <hi>Litchfield,</hi> or of any whoſe dead bodies are not yet inter<g ref="char:EOLhyphen"/>red in <hi>Cheſter,</hi> ſhall have two moneths time to fetch them thence whither they pleaſe, provided that none of them come attended with above twenty Horſe.</p>
+            <p n="10">X. That no Church within the City, or the Eviden<g ref="char:EOLhyphen"/>ces or Writings belonging to the ſame, ſhall be defaced.</p>
+            <p n="11">XI. That ſuch <hi>Iriſh,</hi> as were borne of <hi>Iriſh</hi> Parents, and have taken part with the Rebells in <hi>Ireland,</hi> and now in the City, ſhall be rendered Priſoners.</p>
+            <p n="12">XII. That all thoſe Horſes and Armes belonging to thoſe that march out, and not by theſe Articles allowed to bee taken and carried out of the City: Except ſuch
+<pb n="5" facs="tcp:159015:4"/> Horſes as are the proper goods of the Citizens and In<g ref="char:EOLhyphen"/>habitants that ſhall remain in the City before the delive<g ref="char:EOLhyphen"/>ry of the ſame, be brought the Horſes into the Caſtle Court; and the Armes into the Shire-Hall, where Offi<g ref="char:EOLhyphen"/>cers ſhall be appointed to receive them.</p>
+            <p n="13">XIII. That in conſideration hereof, the ſaid City and Caſtle, without any ſleighting or defacing thereof, with all the Ordnance, Armes, Ammunition, and all o<g ref="char:EOLhyphen"/>ther Furniture and Proviſions of Warre therein whatſo<g ref="char:EOLhyphen"/>ever; except what is allowed to be carryed away, and formerly herein mentioned, with the County Palatine Seale, Sword, and all the Records in the City and Ca<g ref="char:EOLhyphen"/>ſtle, without diminution, imbezling, or defacing, be de<g ref="char:EOLhyphen"/>livered to the ſaid Sir <hi>William Brereton,</hi> or ſuch as he ſhall appoint for the uſe of King and Parliament, upon <hi>Tueſday</hi> next, being the third of this inſtant <hi>February</hi> by ten of the clock in the forenoone.</p>
+            <p n="14">XIV. That the Fort, with all the Ordnance, Armes, and Ammunition, and Proviſion therein of what ſort ſo<g ref="char:EOLhyphen"/>ever, not formerly granted or allowed of, upon the ſign<g ref="char:EOLhyphen"/>ing of theſe Articles, be delivered to Sir <hi>William Brereton,</hi> or ſuch as he ſhall appoint.</p>
+            <p n="15">XV. That upon ſigning of theſe Articles, all Priſo<g ref="char:EOLhyphen"/>ners in the City, Caſtle, and Fort, that have bin in Arms for the Parliament, or Impriſoned for adhering thereunto, ſhall be immediatly ſet at liberty.</p>
+            <p n="16">XVI. That the Convoy ſhall not receive any injury in their going or comming back, and ſhall have three dayes allowed them for their return.</p>
+            <p n="17">XVII. That if any perſon concerned in any of theſe Articles, ſhall violate any part of them, ſuch Perſons ſhal loſe the benefit of all the ſaid Articles.</p>
+            <p n="18">
+               <pb n="6" facs="tcp:159015:5"/>XVIII. That upon ſigning of theſe Articles, ſuffici<g ref="char:EOLhyphen"/>ent Hoſtages, ſuch as ſhall be approved be given for the performance of all the ſaid Articles.</p>
+            <closer>
+               <signed>Signed by the Commiſsioners ap<g ref="char:EOLhyphen"/>pointed by the Right Honoura<g ref="char:EOLhyphen"/>ble <hi>John</hi> Lord <hi>Byron.</hi>
+                  <list>
+                     <item>Peter Griffith.</item>
+                     <item>Tho. Cholmeley</item>
+                     <item>John Werden.</item>
+                     <item>Edmund Verney.</item>
+                     <item>Robinſon.</item>
+                     <item>Hen. Leigh.</item>
+                     <item>Tho. Morten.</item>
+                     <item>Tho. Bridges.</item>
+                     <item>Ed. Bleaſe.</item>
+                     <item>William Ince.</item>
+                     <item>John Johnſon.</item>
+                     <item>Tho. Thropp.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
